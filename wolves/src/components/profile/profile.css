@@ -1,0 +1,6 @@
+.allItems{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: right;
+    padding-top: 10px;
+}
